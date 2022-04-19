@@ -6,7 +6,7 @@ program demo {
 
 	game.title("Demo Aventuras")
 	game.width(12)
-	game.height(12)
+	game.height(20)
 	game.ground("ground.png")
 	
 	player.position(game.center())
